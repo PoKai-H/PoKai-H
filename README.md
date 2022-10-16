@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PoKai-H
 - 👀 I’m interested in blockchain dapps development and data science
-- 🌱 I’m currently learning dapps develop and data science
+- 🌱 I’m currently learning data science
 - 📫 How to reach me pokairacing31@gamil.com
 
 <!---
