@@ -38,6 +38,6 @@ Here are some of my representative works (see pinned repos for more):
 ## 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/po-kai-huang-25608b163/)
 - 📩 Email: huangpokai31@gmail.com
-- 🧠 Medium: [Medium blog](https://medium.com/@huangpokai31) on RL + Quant topics
+- 🧠 Medium: [Medium blog](https://medium.com/@huangpokai31) 
 
 ---
