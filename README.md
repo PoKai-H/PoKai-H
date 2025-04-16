@@ -30,7 +30,7 @@ Here are some of my representative works (see pinned repos for more):
 
 ## 📚 Recent Highlights
 - 💼 Internship at Uni-President Securities (統一證券)
-- 🔁 Preparing [Medium blog](https://medium.com/@huangpokai31) on RL + Quant topics
+- 🔁 Preparing [Medium blog](https://medium.com/@Huangpokai.CS) on RL + Quant topics
 - ✈️ Exchange Year at UC Berkeley, studied AI, Blockchain, and Security
 
 ---
@@ -38,6 +38,6 @@ Here are some of my representative works (see pinned repos for more):
 ## 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/po-kai-huang-25608b163/)
 - 📩 Email: huangpokai31@gmail.com
-- 🧠 Medium: [Medium blog](https://medium.com/@huangpokai31) 
+- 🧠 Medium: [Medium blog](https://medium.com/@Huangpokai.CS) 
 
 ---
