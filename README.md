@@ -29,7 +29,7 @@ Here are some of my representative works (see pinned repos for more):
 ---
 
 ## 📚 Recent Highlights
-- 💼 Internship at Uni-President Securities (統一證券)
+- 💼 Internship at President Securities Corporation(統一證券)
 - 🔁 Preparing [Medium blog](https://medium.com/@Huangpokai.CS) on RL + Quant topics
 - ✈️ Exchange Year at UC Berkeley, studied AI, Blockchain, and Security
 
