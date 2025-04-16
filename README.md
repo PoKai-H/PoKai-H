@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Po-Kai Huang (黃柏凱)
+# 👋 Hi, I'm Po-Kai Huang (黃柏愷)
 
 🎓 Final-year Data Science undergraduate at Soochow University | Incoming CS Master's student at University of Minnesota Twin Cites
 📍 Currently in Taiwan | Going to the U.S. in Fall 2025  
