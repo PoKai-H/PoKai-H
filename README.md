@@ -1,20 +1,18 @@
 # 👋 Hi, I'm Po-Kai Huang (黃柏愷)
 
-🎓 Final-year Data Science undergraduate at Soochow University | Incoming CS Master's student at University of Minnesota Twin Cites
-📍 Currently in Taiwan | Going to the U.S. in Fall 2025  
-📈 Aspiring Quant Trader | Passionate about Reinforcement Learning, Financial Markets, and AI Research
+🎓 CS Master's student at University of Minnesota Twin Cites
+📍 Currently in Minnesota
+📈 Passionate about Reinforcement Learning, Multi-Agent System and Optimization research
 
 ---
 
 ## 💻 Current Focus
-- 🔬 **Reinforcement Learning + Multi-Agent Systems** to simulate financial markets
-- 🤖 Building a fully autonomous quant trading system (day trading + options)
-- 🧠 Exploring PhD-level research opportunities in Reinforcement Learning and Market Simulation, with the goal of applying it to real-world quantitative strategies
-
+- 🔬 Distributed Constrained Optimization in a Co-evolving Multi-Agent Environment
+- 🧠 Exploring PhD-level research opportunities in Reinforcement Learning, Multi-Agent System, Robotics and Optimization
 ---
 
 ## 🔧 Technical Stack
-- **Languages**: Python, C#, Java, Go, SQL
+- **Languages**: Python, C#, C, Java, Go, SQL
 - **Tools**: PyTorch, TensorFlow, Scikit-Learn, XGBoost, Docker, Git
 - **Specialties**: Quantitative Finance, Market Simulation, Trading Algorithms, Time Series ML
 
@@ -30,7 +28,7 @@ Here are some of my representative works (see pinned repos for more):
 
 ## 📚 Recent Highlights
 - 💼 Internship at President Securities Corporation(統一證券)
-- 🔁 Preparing [Medium blog](https://medium.com/@Huangpokai.CS) on RL + Quant topics
+- 🔁 Preparing [Medium blog](https://medium.com/@Huangpokai.CS) on RL + MAS and Optimization
 - ✈️ Exchange Year at UC Berkeley, studied AI, Blockchain, and Security
 
 ---
@@ -38,6 +36,6 @@ Here are some of my representative works (see pinned repos for more):
 ## 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/po-kai-huang-25608b163/)
 - 📩 Email: huangpokai31@gmail.com
-- 🧠 Medium: [Medium blog](https://medium.com/@Huangpokai.CS) 
+
 
 ---
